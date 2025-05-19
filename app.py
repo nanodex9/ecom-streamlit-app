@@ -61,6 +61,9 @@ Upload your logistics CSV and explore *where* things break and *how* to fix them
 *Understanding the Problem* → KPI vs review deep‑dives.  
 *Factors and Causes*        → Worst sellers, cities, products.  
 *Conclusion & Insights*     → Key takeaways.
+
+- Data to Upload for Analysis → [link](https://drive.google.com/file/d/1h02g6ObGWiTID990u2pWTw5o3aNEYzSb/view?usp=sharing)
+
         """
     )
 
